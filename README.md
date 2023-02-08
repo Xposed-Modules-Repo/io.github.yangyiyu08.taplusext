@@ -26,7 +26,7 @@ Enhanced modules tailored for MIUI Taplus
 1. 在 LSPosed管理器 中激活模块
 2. 作用域勾选 传送门(**`com.miui.contentextension`**)
 3. **重启传送门** (即强行停止)
-4. 到 `设置-更多设置(特色功能)-传送门` 进行配置
+4. 更多配置请转到 `设置-更多设置(特色功能)-传送门`
 
 ## 注意事项
 
