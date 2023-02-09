@@ -10,6 +10,7 @@ Enhanced modules tailored for MIUI Taplus
 
 ## 功能
 
+* [x] 添加开启横屏开关
 * [x] 优化链接打开方式
 * [x] 优化复制，去除多余空格
 * [x] 添加长按批量复制，配合输入法的剪贴板使用
@@ -40,6 +41,8 @@ Enhanced modules tailored for MIUI Taplus
 ## 下载
 
 [LSPosed 仓库](https://github.com/Xposed-Modules-Repo/io.github.yangyiyu08.taplusext/releases)
+
+[蓝奏云](https://qyma.lanzout.com/b051gtd3i) 密码:`miui`
 
 ## 无效
 
