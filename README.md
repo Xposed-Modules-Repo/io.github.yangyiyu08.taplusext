@@ -37,7 +37,7 @@ Enhanced modules tailored for MIUI Taplus
 
     > 示例：`https://www.exmaple.com/s?q=%s`
 
-2. 关于老机型的强制开启功能，会因设备底层或硬件原因而不适配
+2. 关于老机型的强制开启功能，会因设备底层不支持的原因从而不生效
 
 ## 下载
 
