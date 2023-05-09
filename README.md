@@ -35,7 +35,7 @@ Enhanced modules tailored for MIUI Taplus
     1. 必须以 **http** 开头
     2. 必须包含 **%s** ，用于代替搜索词
 
-    > 示例：`https://www.exmaple.com/s?q=%s`
+    示例：`https://www.exmaple.com/s?q=%s`
 
 2. 关于老机型的强制开启功能，会因设备底层不支持的原因从而不生效
 
