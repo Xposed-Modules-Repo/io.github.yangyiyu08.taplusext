@@ -49,7 +49,7 @@ Enhanced modules tailored for MIUI Taplus
 
 ## 无效
 
-请先检查模块是否正常激活，并且作用域是否勾选。如果排查后仍有错误，请提交issue。或联系酷安[@yangyiyu08](http://www.coolapk.com/u/1188320)
+请先检查模块是否正常激活，并且作用域是否勾选。如果排查后仍有错误，请提交issue。或联系酷安[@buffcow](http://www.coolapk.com/u/1188320)
 
 ## 致谢
 
