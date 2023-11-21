@@ -1,8 +1,8 @@
 # 传送门增强 -- TaplusExtension
 
-为 MIUI传送门 量身定做的增强模块
+为 MIUI/HyperOS传送门 量身定做的增强模块
 
-Enhanced modules tailored for MIUI Taplus
+Enhanced modules tailored for MIUI/Hyper Taplus
 
 ## 支持版本
 
